@@ -30,7 +30,7 @@ O software tem como objetivo auxiliar pessoas que tenham dificuldade em administ
 
 ## Interfaces do Sistema
 
-### Interface 1 - Menu inicial
+## Interface 1 - Menu inicial
 
 ### Bem-vindo ao EasyCash!
 
@@ -43,18 +43,33 @@ O software tem como objetivo auxiliar pessoas que tenham dificuldade em administ
 7. Gráficos
 
 
-### Interface 2 - Adicionar novo compromisso
+## Interface 2 - Carteira
 
-### 2.1. Adicionar nova conta:
+### 1. Carteira:
 
-Qual o nome do compromisso que deseja adicionar? Conta de água
+1. Visualizar valor
+2. Adicionar valor
+3. Recuperar valor
 
-Qual o valor da conta? R$50,00
+## Interface 3 - Visualizar valor
 
-Qual a data de vencimento? 12/12/2023
+### 1.1. Visualizar valor:
 
-Qual o nível de prioridade? 1
+<h3><b> Atualmente você tem: XXX </b></h3>
 
-### Seu compromisso foi adicionado com sucesso!
+## Interface 4 - Adicionar valor
 
+### 1.2 Adicionar valor:
+
+<b> Digite o valor a ser adicionado: XXX </b>
+
+<b> Novo valor da carteira: XXX </b>
+
+## Interface 5 - Recuperar valor
+
+### 1.3. Recuperar valor:
+
+<b> Digite o valor que deseja resgatar: XXX </b>
+
+<b> Valor atual da carteira: XXX </b>
 

@@ -35,7 +35,7 @@ O software tem como objetivo auxiliar pessoas que tenham dificuldade em administ
 ### Bem-vindo ao EasyCash!
 
 1. Carteira 
-2. (Compromissos financeiros[https://github.com/RAY-SILVER/projeto-integrador-python-senai/blob/main/Interface2])
+2. [Compromissos financeiros](https://github.com/RAY-SILVER/projeto-integrador-python-senai/blob/main/Interface2)
 3. Metas
 4. Emergências
 5. Dinheiro Livre

@@ -1,4 +1,4 @@
-# nome
+# EasyCash
 
 
 ## Descrição
@@ -32,7 +32,7 @@ O software tem como objetivo auxiliar pessoas que tenham dificuldade em administ
 
 ### Interface 1 - Menu inicial
 
-### Bem-vindo ao "sss"
+### Bem-vindo ao EasyCash!
 
 1. Carteira 
 2. Compromissos financeiros
